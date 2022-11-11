@@ -1,0 +1,21 @@
+.perfil {
+    height: 350px;
+    border-radius: 100%;
+}
+
+.title {
+    font-size: xx-large;
+}
+
+.description {
+    margin-top: 15px;
+    font-size: large;
+}
+
+.left-section {
+    width: 50%;
+}
+
+.right-section {
+    margin-left: 40px;
+}
